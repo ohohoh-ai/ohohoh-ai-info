@@ -1,3 +1,5 @@
+![ohohoh.ai](logos/ohohoh.ai_social_preview.png)
+
 # ohohoh.ai
 
 ### Idea to pharma ad in hours.
